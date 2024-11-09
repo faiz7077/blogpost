@@ -1,6 +1,6 @@
 import React from 'react';
-
-import Instagram from "../../assets/Client-First - icons/insta.svg";
+import Instagram from "../../assets/Client-First - icons/Insta.svg"
+// import Instagram from "../../assets/Client-First - icons/insta.svg";
 import Facebook from "../../assets/Client-First - icons/Facebook.svg";
 import LinkedIn from "../../assets/Client-First - icons/LinkedIn.svg";
 import Twitter from "../../assets/Client-First - icons/Twitter.svg";
