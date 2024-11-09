@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Instagram from "../../assets/Client-First - Icons/insta.svg";
-import Facebook from "../../assets/Client-First - Icons/Facebook.svg";
-import LinkedIn from "../../assets/Client-First - Icons/LinkedIn.svg";
-import Twitter from "../../assets/Client-First - Icons/Twitter.svg";
+import Instagram from "../../assets/Client-First - icons/insta.svg";
+import Facebook from "../../assets/Client-First - icons/Facebook.svg";
+import LinkedIn from "../../assets/Client-First - icons/LinkedIn.svg";
+import Twitter from "../../assets/Client-First - icons/Twitter.svg";
 import authorImage1 from '../../assets/Client-First - IMAGES/Author1.svg';
 import authorImage2 from '../../assets/Client-First - IMAGES/Author2.svg';
 import authorImage3 from '../../assets/Client-First - IMAGES/Author3.svg';
